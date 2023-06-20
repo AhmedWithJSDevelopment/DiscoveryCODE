@@ -1,0 +1,206 @@
+.pageHero-after {
+    position: relative;
+    margin-top: 90px;
+    text-align: center;
+    padding: 0 20px;
+    z-index: 9;
+}
+
+.pageHero-after--inner {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: #fff;
+    -webkit-box-shadow: 4px 4px 20px rgb(101 101 101 / 15%);
+    box-shadow: 4px 4px 20px rgb(101 101 101 / 15%);
+    border-radius: 10px;
+    padding: 20px 3px;
+}
+
+*,
+ :after,
+ :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+/* a {
+    background-color: red;
+} */
+
+.pageHero-after {
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 90px;
+    text-align: center;
+    padding: 0 20px;
+    z-index: 9;
+}
+
+.pageHero-after--inner img {
+    max-height: 40px;
+}
+
+iframe,
+img {
+    border-style: none;
+}
+
+iframe {
+    border-radius: 50px;
+    /* box-shadow: 0em 20em 0em 0px #ffffffd6, -0.5em -0.5em 1em #ffffff; */
+}
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+    /* box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.625);
+    border-radius: 5px;
+    height: 600px;
+    margin: 50px; */
+}
+
+iframe {
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.625);
+    border-radius: 5px;
+    height: 550px;
+    padding: 50px;
+    margin-bottom: 50px;
+}
+
+*,
+ :after,
+ :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a:-webkit-any-link {
+    /* color: -webkit-link; */
+    cursor: pointer;
+}
+
+.pageHero-after--inner a {
+    margin: 0 32px;
+}
+
+.pageHero-after--inner {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: #fff;
+    -webkit-box-shadow: 4px 4px 20px rgb(101 101 101 / 15%);
+    box-shadow: 4px 4px 20px rgb(101 101 101 / 15%);
+    border-radius: 10px;
+    padding: 20px 3px;
+    height: 100px;
+}
+
+@media (max-width: 600px) {
+    .pageHero-after--inner img {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .pageHero-after--inner a {
+        width: 70px;
+        margin: 0 12px;
+    }
+    .pageHero-after {
+        text-align: center;
+        padding: 0 0px;
+    }
+    .pageHero-after--inner {
+        padding: 20px 50px;
+        height: 100px;
+    }
+}
+
+@media (max-width: 500px) {
+    .pageHero-after--inner img {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .pageHero-after--inner a {
+        width: 70px;
+        margin: 0 12px;
+    }
+    .pageHero-after {
+        text-align: center;
+        padding: 0 0px;
+    }
+    .pageHero-after--inner {
+        padding: 20px 0;
+        height: 100px;
+    }
+}
+
+@media (max-width: 400px) {
+    .pageHero-after--inner img {
+        margin-top: 20px;
+        text-align: center;
+        max-width: 110%;
+    }
+    .pageHero-after--inner a {
+        width: 50px;
+        margin: 0 10px;
+    }
+    .pageHero-after {
+        text-align: center;
+        padding: 0 0px;
+    }
+    .pageHero-after--inner {
+        padding: 20px 0;
+        height: 100px;
+    }
+}
+
+@media (max-width: 300px) {
+    .pageHero-after--inner img {
+        margin-top: 20px;
+        text-align: center;
+        max-width: 110%;
+    }
+    .pageHero-after--inner a {
+        width: 45px;
+        margin: 0 5px;
+    }
+    .pageHero-after {
+        text-align: center;
+        padding: 0 0px;
+    }
+    .pageHero-after--inner {
+        padding: 20px 0;
+        height: 100px;
+    }
+}
+
+@media (max-width: 250px) {
+    .pageHero-after--inner img {
+        margin-top: 20px;
+        text-align: center;
+        max-width: 100%;
+    }
+    .pageHero-after--inner a {
+        width: 40px;
+        margin: 0 3px;
+    }
+    .pageHero-after {
+        text-align: center;
+        padding: 0 0px;
+    }
+    .pageHero-after--inner {
+        padding: 20px 0;
+        height: 100px;
+    }
+}

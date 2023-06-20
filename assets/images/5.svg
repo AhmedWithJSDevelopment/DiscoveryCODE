@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="532px" height="349px" viewBox="0 0 532 349" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>5 copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="530" height="347" rx="6.10327022"></rect>
+        <path d="M0.5,20.5 L529.5,20.5 L529.5,340.5 C529.5,343.813708 526.813708,346.5 523.5,346.5 L6.5,346.5 C3.1862915,346.5 0.5,343.813708 0.5,340.5 L0.5,20.5 L0.5,20.5 Z" id="path-3"></path>
+    </defs>
+    <g id="08-Dedicated-Team" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2_1440_Engagement-models_PRODUCT-DEV" transform="translate(-779.000000, -8502.000000)">
+            <g id="5-copy-3" transform="translate(780.000000, 8503.000000)">
+                <g id="5-copy">
+                    <g id="Group-17-Copy">
+                        <g id="Basic-Flowcharts-/-Page">
+                            <g id="Page">
+                                <g id="Group-15">
+                                    <g id="Group-33">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <use id="Mask" stroke="#AAAEB4" stroke-width="1.0172117" fill="#FFFFFF" xlink:href="#path-1"></use>
+                                        <path d="M523.88762,0 C527.263394,0 530,2.73897916 530,6.10933304 L530,20 L0,20 L0,6.10933304 C0,2.73524157 2.7252272,0 6.11237953,0 L523.88762,0 Z M10.5,7 C8.56700338,7 7,8.56700338 7,10.5 C7,12.4329966 8.56700338,14 10.5,14 C12.4329966,14 14,12.4329966 14,10.5 C14,8.56700338 12.4329966,7 10.5,7 Z M20.5,7 C18.5670034,7 17,8.56700338 17,10.5 C17,12.4329966 18.5670034,14 20.5,14 C22.4329966,14 24,12.4329966 24,10.5 C24,8.56700338 22.4329966,7 20.5,7 Z M31.5,7 C29.5670034,7 28,8.56700338 28,10.5 C28,12.4329966 29.5670034,14 31.5,14 C33.4329966,14 35,12.4329966 35,10.5 C35,8.56700338 33.4329966,7 31.5,7 Z" id="Combined-Shape" stroke="#AAAEB4" stroke-width="1.0172117" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                                        <mask id="mask-4" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <use id="Mask" fill="#FFFFFF" xlink:href="#path-3"></use>
+                                        <rect id="bg_head" fill="#FAFAFA" fill-rule="nonzero" mask="url(#mask-4)" x="1" y="21" width="138" height="21"></rect>
+                                        <rect id="bg_head-copy" fill="#FAFAFA" fill-rule="nonzero" mask="url(#mask-4)" x="1" y="109" width="138" height="18"></rect>
+                                        <rect id="Rectangle" fill="#D4D6D9" fill-rule="nonzero" mask="url(#mask-4)" x="1" y="42" width="138" height="1"></rect>
+                                        <text id="History" opacity="0.600000024" mask="url(#mask-4)" font-family="SFProText-Semibold, SF Pro Text" font-size="8" font-weight="500" line-spacing="9.44999975" fill="#008AF3">
+                                            <tspan x="8" y="35">History</tspan>
+                                        </text>
+                                        <text id="Collections" mask="url(#mask-4)" font-family="SFProText-Semibold, SF Pro Text" font-size="8" font-weight="500" line-spacing="9.44999975" fill="#ADB1B8">
+                                            <tspan x="47" y="35">Collections</tspan>
+                                        </text>
+                                        <text id="Profile-folder" mask="url(#mask-4)" font-family="SFProText-Semibold, SF Pro Text" font-size="8" font-weight="500" line-spacing="9.44999975" fill="#898989">
+                                            <tspan x="26" y="64">Profile folder</tspan>
+                                        </text>
+                                        <text id="APIs" mask="url(#mask-4)" font-family="SFProText-Semibold, SF Pro Text" font-size="8" font-weight="500" line-spacing="9.44999975" fill="#ADB1B8">
+                                            <tspan x="106" y="35">APIs</tspan>
+                                        </text>
+                                        <rect id="Rectangle" fill="#008AF3" fill-rule="nonzero" mask="url(#mask-4)" x="1" y="42" width="42" height="1"></rect>
+                                        <text id="code-copy" mask="url(#mask-4)" font-family="Monaco" font-size="8" font-weight="normal" line-spacing="12">
+                                            <tspan x="179" y="46" fill="#4A4A4A">pm.test(</tspan>
+                                            <tspan x="217.40625" y="46" fill="#4A5CDC">"Status code is 200"</tspan>
+                                            <tspan x="313.421875" y="46" fill="#4A4A4A">, function () {</tspan>
+                                            <tspan x="179" y="59" fill="#4A4A4A">    pm.response.to.have.status(200);</tspan>
+                                            <tspan x="179" y="72" fill="#4A4A4A">});</tspan>
+                                            <tspan x="179" y="85" fill="#4A4A4A">pm.test(</tspan>
+                                            <tspan x="217.40625" y="85" fill="#008AF3">"Content-Type is present"</tspan>
+                                            <tspan x="337.425781" y="85" fill="#4A4A4A">, function () {</tspan>
+                                            <tspan x="179" y="98" fill="#4A4A4A">    pm.response.to.have.header("Content-Type");</tspan>
+                                            <tspan x="179" y="111" fill="#4A4A4A">});</tspan>
+                                            <tspan x="179" y="124" fill="#4A4A4A">pm.test(</tspan>
+                                            <tspan x="217.40625" y="124" fill="#008AF3">"Street 1 is set"</tspan>
+                                            <tspan x="299.019531" y="124" fill="#4A4A4A">, () =&gt; { </tspan>
+                                            <tspan x="179" y="137" fill="#4A4A4A">    pm.expect(pm.response.json().company.address).to.equal</tspan>
+                                            <tspan x="179" y="150" fill="#4A4A4A">});</tspan>
+                                            <tspan x="179" y="163" fill="#4A4A4A">pm.test(</tspan>
+                                            <tspan x="217.40625" y="163" fill="#008AF3">"Street 2 is set"</tspan>
+                                            <tspan x="299.019531" y="163" fill="#4A4A4A">, () =&gt; { </tspan>
+                                            <tspan x="179" y="176" fill="#4A4A4A">    pm.expect(pm.response.json().company.address2).to.equal</tspan>
+                                            <tspan x="179" y="189" fill="#4A4A4A">});</tspan>
+                                            <tspan x="179" y="202" fill="#4A4A4A">pm.test(</tspan>
+                                            <tspan x="217.40625" y="202" fill="#008AF3">"Correct city is added"</tspan>
+                                            <tspan x="327.824219" y="202" fill="#4A4A4A">, () =&gt; { </tspan>
+                                            <tspan x="179" y="215" fill="#4A4A4A">    pm.expect(pm.response.json().company.city).to.equal("Bronx"); </tspan>
+                                            <tspan x="179" y="228" fill="#4A4A4A">});</tspan>
+                                            <tspan x="179" y="241" fill="#4A4A4A">pm.test(</tspan>
+                                            <tspan x="217.40625" y="241" fill="#008AF3">"Correct State is added"</tspan>
+                                            <tspan x="332.625" y="241" fill="#4A4A4A">, () =&gt; { </tspan>
+                                            <tspan x="179" y="254" fill="#4A4A4A">    pm.expect(pm.response.json().company.state_id).to.equal(32); </tspan>
+                                            <tspan x="179" y="267" fill="#4A4A4A">});</tspan>
+                                            <tspan x="179" y="280" fill="#4A4A4A">pm.test(</tspan>
+                                            <tspan x="217.40625" y="280" fill="#008AF3">"Correct zip is added"</tspan>
+                                            <tspan x="323.023438" y="280" fill="#4A4A4A">, () =&gt; { </tspan>
+                                            <tspan x="179" y="293" fill="#4A4A4A">    pm.expect(pm.response.json().company.zip).to.equal("10002"); </tspan>
+                                            <tspan x="179" y="306" fill="#4A4A4A">});</tspan>
+                                        </text>
+                                        <text id="code-copy-2" mask="url(#mask-4)" font-family="Monaco" font-size="7" font-weight="normal" line-spacing="12" fill="#4A4A4A">
+                                            <tspan x="30" y="80">SignUp[process]</tspan>
+                                        </text>
+                                        <text id="code-copy-3" mask="url(#mask-4)" font-family="Monaco" font-size="7" font-weight="normal" line-spacing="12" fill="#F5A623">
+                                            <tspan x="9" y="80">POST</tspan>
+                                        </text>
+                                        <text id="code-copy-4" mask="url(#mask-4)" font-family="Monaco" font-size="7" font-weight="normal" line-spacing="12" fill="#4A4A4A">
+                                            <tspan x="30" y="99">SignUp[process]</tspan>
+                                        </text>
+                                        <text id="code-copy-5" mask="url(#mask-4)" font-family="Monaco" font-size="7" font-weight="normal" line-spacing="12" fill="#F5A623">
+                                            <tspan x="9" y="99">POST</tspan>
+                                        </text>
+                                        <text id="code-copy-7" mask="url(#mask-4)" font-family="Monaco" font-size="7" font-weight="normal" line-spacing="12" fill="#4A4A4A">
+                                            <tspan x="30" y="118">SignUp[process]</tspan>
+                                        </text>
+                                        <text id="code-copy-6" mask="url(#mask-4)" font-family="Monaco" font-size="7" font-weight="normal" line-spacing="12" fill="#F5A623">
+                                            <tspan x="9" y="118">POST</tspan>
+                                        </text>
+                                        <text id="code-copy-10" mask="url(#mask-4)" font-family="Monaco" font-size="7" font-weight="normal" line-spacing="12" fill="#4A4A4A">
+                                            <tspan x="30" y="137">SignUp[uploadphoto]</tspan>
+                                        </text>
+                                        <text id="code-copy-11" mask="url(#mask-4)" font-family="Monaco" font-size="7" font-weight="normal" line-spacing="12" fill="#F5A623">
+                                            <tspan x="9" y="137">POST</tspan>
+                                        </text>
+                                        <text id="code-copy-12" mask="url(#mask-4)" font-family="Monaco" font-size="7" font-weight="normal" line-spacing="12" fill="#4A4A4A">
+                                            <tspan x="30" y="156">SignUp[process]</tspan>
+                                        </text>
+                                        <text id="code-copy-13" mask="url(#mask-4)" font-family="Monaco" font-size="7" font-weight="normal" line-spacing="12" fill="#F5A623">
+                                            <tspan x="9" y="156">POST</tspan>
+                                        </text>
+                                        <text id="line-numbers-copy" mask="url(#mask-4)" font-family="Monaco" font-size="8" font-weight="normal" line-spacing="12" fill="#D7D7D7">
+                                            <tspan x="163.199219" y="47">1</tspan>
+                                            <tspan x="163.199219" y="60">2</tspan>
+                                            <tspan x="163.199219" y="73">3</tspan>
+                                            <tspan x="163.199219" y="86">4</tspan>
+                                            <tspan x="163.199219" y="99">5</tspan>
+                                            <tspan x="163.199219" y="112">6</tspan>
+                                            <tspan x="163.199219" y="125">7</tspan>
+                                            <tspan x="163.199219" y="138">8</tspan>
+                                            <tspan x="163.199219" y="151">9</tspan>
+                                            <tspan x="158.398438" y="164">10</tspan>
+                                            <tspan x="158.398438" y="177">11</tspan>
+                                            <tspan x="158.398438" y="190">12</tspan>
+                                            <tspan x="158.398438" y="203">13</tspan>
+                                            <tspan x="158.398438" y="216">14</tspan>
+                                            <tspan x="158.398438" y="229">15</tspan>
+                                            <tspan x="158.398438" y="242">16</tspan>
+                                            <tspan x="158.398438" y="255">17</tspan>
+                                            <tspan x="158.398438" y="268">18</tspan>
+                                            <tspan x="158.398438" y="281">19</tspan>
+                                            <tspan x="158.398438" y="294">20</tspan>
+                                            <tspan x="158.398438" y="307">21</tspan>
+                                            <tspan x="158.398438" y="320">22</tspan>
+                                        </text>
+                                        <rect id="Rectangle" fill="#D4D6D9" mask="url(#mask-4)" x="139" y="20" width="1" height="327"></rect>
+                                        <path d="M20,63.8333331 C20,64.4779053 19.50775,65 18.9,65 L10.1,65 C9.49225236,65 9,64.4779053 9,63.8333331 L9,56.1666668 C9,55.522095 9.49225237,55 10.1,55 L13.4,55 C14.0077478,55 14.5,55.522095 14.5,56.1666668 L14.5,56.7500002 C14.5,57.0720002 14.7464,57.3333335 15.05,57.3333335 L18.9,57.3333335 C19.50775,57.3333335 20,57.8554286 20,58.5 L20,63.8333331 Z" id="Fill-1" fill="#D4D6D9" mask="url(#mask-4)"></path>
+                                        <circle id="Oval" fill="#D4D6D9" mask="url(#mask-4)" cx="117.5" cy="61.5" r="1.5"></circle>
+                                        <circle id="Oval-Copy-6" fill="#D4D6D9" mask="url(#mask-4)" cx="127.5" cy="61.5" r="1.5"></circle>
+                                        <circle id="Oval-Copy-5" fill="#D4D6D9" mask="url(#mask-4)" cx="122.5" cy="61.5" r="1.5"></circle>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-32" transform="translate(9.000000, 73.000000)"></g>
+                <g id="Group-31" transform="translate(9.000000, 92.000000)"></g>
+                <g id="Group-30" transform="translate(9.000000, 111.000000)"></g>
+                <g id="Group-29" transform="translate(9.000000, 130.000000)"></g>
+                <g id="Group-28" transform="translate(9.000000, 149.000000)"></g>
+                <g id="Group-25" transform="translate(116.000000, 60.000000)">
+                    <g id="Group-24">
+                        <g id="Group-23"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
